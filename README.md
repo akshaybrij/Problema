@@ -1,1 +1,1 @@
-Data Structure and Algorithms Solved Problems
+Data Structure and Algorithms Practice Problems
